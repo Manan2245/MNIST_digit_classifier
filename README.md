@@ -16,5 +16,5 @@ To get started with this project, follow these steps:
    git clone https://github.com/Manan2245/MNIST_digit_classifier.git
 
 
-[Live Demo]([https://your-demo-url.com](https://github.com/Manan2245/MNIST_digit_classifier/assets/87888482/c3a3295a-2781-4d2d-b94a-7c505c0ae588)https://github.com/Manan2245/MNIST_digit_classifier/assets/87888482/c3a3295a-2781-4d2d-b94a-7c505c0ae588)
+[Live Demo](https://github.com/Manan2245/MNIST_digit_classifier/assets/87888482/c3a3295a-2781-4d2d-b94a-7c505c0ae588)
 
